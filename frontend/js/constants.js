@@ -1,7 +1,7 @@
 const contractAddress = "0x2870AcF2c65A3Cb52D17aA537F988556086Db1a6"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Unicorn Piss NFT collection welcomes youuu!!";
+const welcome_h1 = "Unicorn Piss NFT collection welcomes you!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Unicorn Piss NFT Project is a decentralized, open-source project';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
